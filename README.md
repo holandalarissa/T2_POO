@@ -11,11 +11,11 @@ Desenvolvido por: Larissa dos Santos Holanda e Maria Eliza Teofilo Ferreira.<br>
 |---|---|
 |Questão 01|  | 
 |Questão 02|  | 
+|Questão 03|  | 
 |Questão 04|  | 
-|Questão 10|  | 
-|Questão 14|  | 
-|Questão 15|  |
-|Questão 20|  |
-|Questão 22|  | 
-|Questão 23|  | 
-|Questão 25|  |
+|Questão 05|  | 
+|Questão 06|  |
+|Questão 07|  |
+|Questão 08|  | 
+|Questão 09|  | 
+|Questão 10|  |
