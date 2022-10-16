@@ -1,9 +1,10 @@
 <html>
   <body>
     <h1> T2_POO </h1>
-Este repositório contém as questões do 2° trabalho da disciplina "Programação orientada a objetos".<br>
-Técnico Integrado em Informática. <br>
-Turma: P3 - 2022.2.
+Este repositório contém as questões do 2° trabalho da disciplina "Programação orientada a objetos".<br> 
+Técnico Integrado em Informática. <br>Turma: P3 - 2022.2.<br>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Java" height="130" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
     
 
