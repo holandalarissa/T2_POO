@@ -4,13 +4,15 @@
 Este repositório contém as questões do 2° trabalho da disciplina "Programação orientada a objetos".<br> 
 Técnico Integrado em Informática. <br>Turma: P3 - 2022.2.<br>
 <div style="display: inline_block"><br>
+
+<h2> License: </h2>
   <img align="center" alt="mit" height="25" width="60" src="https://user-images.githubusercontent.com/95726877/196012860-835932b3-7f6e-4579-9463-157f6e8c6d61.png">
 
   <img align="right" alt="Java" height="130" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
     
 
-<h2> DESENVOLVIDO POR: </h2>
+<h2> Desenvolvido por: </h2>
 <a title = > Larissa dos Santos Holanda </a><br>
 <a titlw = > Maria Eliza Teofilo Ferreira </a><br>
 
